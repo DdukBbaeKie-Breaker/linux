@@ -21,7 +21,7 @@ linux 정보 보는 명령어
 
 cat /etc/passwd 치면 많은 정보들이 나오는데 ftz에 나오는 예제 하나를 가저오겠다  
   
-root:x:0:0:Admin:/root:/bin/bash  
+root:엑스(영어로 ):0:0:Admin:/root:/bin/bash  
 
 -위 문자열은 7필드로 나누어져 있다.  
 -:으로 구분되는 것을 알 수 가있다.  
